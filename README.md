@@ -1,4 +1,4 @@
-# Restaurant Menu Website
+# Reestar Menu Website
 
 Welcome to the Reestar Menu website! This project showcases a simple and elegant menu for a fictional restaurant, designed using HTML and CSS. 
 
@@ -15,13 +15,7 @@ Welcome to the Reestar Menu website! This project showcases a simple and elegant
 
 ## Getting Started
 
-To view the project, simply clone the repository and open the `index.html` file in your web browser.
-
-```bash
-git clone https://github.com/yourusername/restaurant-menu.git
-cd restaurant-menu
-open index.html
-```
+To view the project, simply clone the repository and open the `https://deepthiramachandran.github.io/restuarant--menu-website/` file in your web browser.
 
 ## Contributing
 
